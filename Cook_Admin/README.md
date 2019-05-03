@@ -42,4 +42,4 @@ For detailed explanation on how things work, check out the [Nuxt.js](https://git
 #### components/NuxtLogo.vue, VuetifyLogo.vue 삭제
 ### commit & push
 
-### nuxt.config.js 모듈 추가 head.meta 변경
+## nuxt.config.js 모듈 추가 head.meta 변경
