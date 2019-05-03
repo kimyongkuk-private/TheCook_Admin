@@ -36,7 +36,10 @@ For detailed explanation on how things work, check out the [Nuxt.js](https://git
 
 ### git push origin master
 
+## 불필요한 파일 삭제
 #### delete page/inspire.vue
 #### index.vue 내용 삭제
 #### components/NuxtLogo.vue, VuetifyLogo.vue 삭제
 ### commit & push
+
+### nuxt.config.js 모듈 추가 head.meta 변경
