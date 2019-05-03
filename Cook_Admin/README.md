@@ -35,3 +35,8 @@ For detailed explanation on how things work, check out the [Nuxt.js](https://git
 ### git commit -m "initial"
 
 ### git push origin master
+
+#### delete page/inspire.vue
+#### index.vue 내용 삭제
+#### components/NuxtLogo.vue, VuetifyLogo.vue 삭제
+### commit & push
