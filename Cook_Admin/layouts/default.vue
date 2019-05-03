@@ -7,18 +7,18 @@
       </v-container>
     </v-content>
 
-    <v-footer :fixed="fixed" app>
-      <span>&copy; {{ new Date().getFullYear() }}</span>
-    </v-footer>
+    <Footer/>
   </v-app>
 </template>
 
 <script>
 import Toolbar from '@/components/core/toolbar'
+import Footer from '@/components/core/footer'
 
 export default {
   components: {
-    Toolbar
+    Toolbar,
+    Footer
   },
   data () {
     return {
